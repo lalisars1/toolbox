@@ -5,7 +5,11 @@
     "servers": [
       {
         "name": "Instalador",
-        "url": "https://corsbypass-5jyi.onrender.com/https://cdn.discordapp.com/attachments/1245503997909925970/1245504051895079013/ShareX-16.1.0-setup.exe?ex=6658fd8a&is=6657ac0a&hm=8d442e1528778ce791a1440f635656f4166d0eda3fe405b3e030c673e0729437&"
+        "url": "https://corsbypass-5jyi.onrender.com/https://github.com/ShareX/ShareX/releases/download/v16.0.1/ShareX-16.0.1-setup.exe"
+      },
+      {
+        "name": "Zip",
+        "url": "https://corsbypass-5jyi.onrender.com/https://github.com/ShareX/ShareX/releases/download/v16.0.1/ShareX-16.0.1-portable.zip"
       }
     ]
   }
